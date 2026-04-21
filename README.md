@@ -41,4 +41,4 @@ Built an interactive Power BI dashboard analyzing retail performance, sales tren
 
 ## 🔗 Access Project
 [📥 Download PBIX](./Super%20Market%20Store.pbix)  
-[📄 View Dashboard (PDF)](./Super%20Market%20Store.pdf)
+[📥 Download PDF](https://raw.githubusercontent.com/yourname/repo/main/Super%20Market%20Store.pdf)
